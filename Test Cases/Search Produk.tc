@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>865e51b9-eaf7-458c-96b8-a573f934e1b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5968abc-a24d-4963-a4f1-d71b8ece5f19</id>
+      <masked>false</masked>
+      <name>nama_produk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3594e255-5f6c-4178-bcb9-28dae731ae2d</id>
+      <masked>false</masked>
+      <name>jenis_toko</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa505ace-3546-4b77-a449-ac5cc10381c6</id>
+      <masked>false</masked>
+      <name>lokasi_barang</name>
+   </variable>
+</TestCaseEntity>

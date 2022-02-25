@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Produk Banyak Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b94154ed-be46-4d80-a765-cf61ae7e4896</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('search_produk')</defaultValue>
+      <description></description>
+      <id>73e0fc7f-53f2-497a-bd5f-b3abf72464db</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>
